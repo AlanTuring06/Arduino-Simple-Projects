@@ -20,6 +20,10 @@ Arduino is an open-source electronics platform based on easy-to-use hardware and
    - Description: A simple project to use pushbutton as a toggle switch and turn the LED on/off.
    - Files: [Project 1.md](./Project%201.md)
 
+2. **Project 2: Temperature and Humidity LED Display**
+   - Description: A simple project using LED display to show the temperature and humidity.
+   - Files: [Project 2.md](./Project%202.md)
+
 ## Getting Started
 
 To get started with Arduino, follow these steps:
