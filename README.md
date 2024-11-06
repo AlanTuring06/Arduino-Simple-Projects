@@ -28,6 +28,10 @@ Arduino is an open-source electronics platform based on easy-to-use hardware and
    - Description: A simple project using IR Remote to control speed and direction of the DC motor.
    - Files: [Project 2.md](./Project%203.md)
 
+4. **Project 3: Control RGB LED Using IR Remote**
+   - Description: A simple project using IR Remote to control RGB LED.
+   - Files: [Project 2.md](./Project%204.md)
+
 ## Getting Started
 
 To get started with Arduino, follow these steps:
