@@ -24,6 +24,10 @@ Arduino is an open-source electronics platform based on easy-to-use hardware and
    - Description: A simple project using LED display to show the temperature and humidity.
    - Files: [Project 2.md](./Project%202.md)
 
+3. **Project 3: Control DC Motor Using IR Remote**
+   - Description: A simple project using IR Remote to control speed and direction of the DC motor.
+   - Files: [Project 2.md](./Project%203.md)
+
 ## Getting Started
 
 To get started with Arduino, follow these steps:

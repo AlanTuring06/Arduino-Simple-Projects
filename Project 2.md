@@ -54,6 +54,5 @@ void loop() {
   Serial.print(" C ");
   Serial.print(tempF);
   Serial.println(" F ");
- 
 }
 ```
